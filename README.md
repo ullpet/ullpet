@@ -1,6 +1,6 @@
 [![Header](https://github.com/ullpet/ullpet/blob/master/assets/julip.jpg)](https://t.me/ullpet)
 
-## I'm a juniorFrontend Developer
+## I'm a junior Frontend Developer
 
 Привет, меня зовут Юля!
 Учусь на втором курсе прикладной информатики в РЭУ им. Г. В. Плеханова. Занимаюсь созданием лендинг-страниц и веб-приложений. Адаптивная, валидная и кроссбраузерная верстка - это про меня :)
