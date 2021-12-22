@@ -2,7 +2,10 @@
 
 ## I'm a begginer Frontend Developer
 
-Latest projects
+Привет, меня зовут Юля!
+Учусь на втором курсе прикладной информатики в РЭУ им. Г. В. Плеханова. Занимаюсь созданием лендинг-страниц и веб-приложений. Адаптивная, валидная и кроссбраузерная верстка - это про меня :)
+
+Уверенно владею необходимым стеком технологий, знаю английский, внимательная, ответственная и коммуникабельная.
 
 
 ## Languages and tools
@@ -16,5 +19,7 @@ Latest projects
 ![C++](https://img.shields.io/badge/-C++-ed8e3b?style=for-the-badge&logo=C%2b%2b)
 
 
-follow me
+## Contact me
+- Почта: julip20022@gmail.com
+- Телеграм: https://t.me/ullpet
 
