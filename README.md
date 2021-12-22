@@ -1,4 +1,4 @@
-[![Header](https://github.com/ullpet/ullpet/blob/master/assets/julie.jpg)](https://t.me/ullpet)
+[![Header](https://github.com/ullpet/ullpet/blob/master/assets/julip.jpg)](https://t.me/ullpet)
 
 ## I'm a begginer Frontend Developer
 
